@@ -1,2 +1,2 @@
 # MERN-Examples
-this repository includes all the tutorials after i finished axsos academy bootcamp
+this repository includes all the tutorials for the mern stack that i did
