@@ -1,0 +1,23 @@
+@import 'vairables';
+@mixin buttonstyle {
+    width: 200px;
+    height: 40px;
+    background-color: $secondary-color;
+    border: none;
+    border-radius: 8px;
+    color:$primary-color;
+    font-size: 25px;
+    
+}
+.mainPage{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    h1{
+        color:$secondary-color;
+    }
+    button{
+        @include buttonstyle();
+    }
+    
+}
