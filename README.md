@@ -1,2 +1,2 @@
-# MERN-Examples
-this repository includes some tutorials for the MERN stack that i did
+# Tutorials
+this repository includes some tutorials for different technologies iam learning.
